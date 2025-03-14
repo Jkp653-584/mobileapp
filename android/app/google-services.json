@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350485532035",
+    "project_id": "jakapob-86b07",
+    "storage_bucket": "jakapob-86b07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350485532035:android:06694d23c875f3f88d7ab6",
+        "android_client_info": {
+          "package_name": "com.example.majorticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvq3dHoG8ZOrO8MhmcIyKz3MkYWKKBzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
